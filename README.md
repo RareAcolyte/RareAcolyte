@@ -8,7 +8,7 @@
 </h2>
 <ul dir="auto">
   <li>
-    "Programmeur debutant, testant plusieur languages"
+    "Etudiant en BUT Réseaux et Télécommunication"
   </li>
 </ul>
 <h2 dir="auto">
